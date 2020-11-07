@@ -4,8 +4,7 @@
 
 typedef struct {
     Pixel* pixels;
-    size_t width;
-    size_t height;
+    size_t width, height;
 } Bitmap;
 
 Pixel* Bitmap_pixel_at(Bitmap* bitmap, size_t x, size_t y) {
