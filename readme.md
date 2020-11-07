@@ -2,7 +2,7 @@
 wine's mini shoot
 
 ## installation
-`git clone https://github.com/wine/wms && cd wms && make && sudo make install`
+`git clone https://github.com/wine/wms && cd wms && make && make install`
 
 ## roadmap
 
